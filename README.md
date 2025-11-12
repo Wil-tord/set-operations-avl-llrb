@@ -1,5 +1,7 @@
 ##  Set Project — Data Structures (AVL & LLRB Trees)
 
+**C implementation of a Set ADT using AVL and Left-Leaning Red-Black Trees**
+
 ###  Project Objective
 
 This project implements the **Abstract Data Type (ADT) “Set”**, allowing users to manipulate integer collections — performing insertion, removal, membership checking, union, and intersection operations.
