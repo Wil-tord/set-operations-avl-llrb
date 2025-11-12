@@ -126,9 +126,9 @@ option
 **Input (1.in):**
 
 ```
-0
-5
-3
+0 (will choose AVL data structure)
+5 (5 elements in A)
+3 (3 elements in B)
 1 2 3 4 5
 7 3 8
 1
@@ -138,13 +138,13 @@ option
 **Output (1.out):**
 
 ```
-Belongs
+Pertence(Belongs)
 ```
 
 If the element was not present, the output would be:
 
 ```
-Does not belong
+Nao Pertence(Does not belong)
 ```
 
 ---
