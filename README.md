@@ -126,13 +126,13 @@ option
 **Input (1.in):**
 
 ```
-0 (will choose AVL data structure)
-5 (5 elements in A)
-3 (3 elements in B)
-1 2 3 4 5 (insert the elements to A)
-7 3 8 (insert the elements to B)
-1 (option 1 that checks if an element is inside A)
-2 (is 2 in A?)
+0                             (will choose AVL data structure)
+5                             (5 elements for A)
+3                             (3 elements for B)
+1 2 3 4 5                     (insert these elements to A)
+7 3 8                         (insert these elements to B)
+1                             (option 1 that checks if an element is inside A)
+2                             (is 2 in A?)
 ```
 
 **Output (1.out):**
