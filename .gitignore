@@ -1,0 +1,14 @@
+# Compiled object files
+*.o
+
+# Executable files
+*.exe
+*.out
+
+# Debug files
+*.log
+
+# OS / Editor-specific junk
+.vscode/
+.DS_Store
+Thumbs.db
